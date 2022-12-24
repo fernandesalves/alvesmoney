@@ -1,0 +1,5 @@
+package com.alvesmoney.api.exceptionhandler;
+
+public class AlvesmoneyExceptionHandler {
+
+}

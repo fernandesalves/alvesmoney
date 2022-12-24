@@ -1,0 +1,5 @@
+package com.alvesmoney.api.service;
+
+public class RecursoCriadoEvent {
+
+}

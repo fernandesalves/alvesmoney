@@ -1,0 +1,5 @@
+package com.alvesmoney.api.event.listener;
+
+public class RecursoCriadoListener {
+
+}

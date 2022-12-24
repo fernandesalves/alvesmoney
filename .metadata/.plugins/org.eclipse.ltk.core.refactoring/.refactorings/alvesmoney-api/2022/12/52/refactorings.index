@@ -1,0 +1,9 @@
+1671752385353	Rename type 'CategoriaRespository'
+1671764382841	Rename package 'com.alvesmoney.api.service'
+1671764650385	Delete element
+1671765060955	Extract method 'adicionarHeaderLocation'
+1671791034867	Delete element
+1671804770398	Rename field 'ativo'
+1671804794525	Rename method 'getAtivo'
+1671804808113	Rename method 'setAtivo'
+1671807091323	Extract method 'buscarPessoaPorCodigo'

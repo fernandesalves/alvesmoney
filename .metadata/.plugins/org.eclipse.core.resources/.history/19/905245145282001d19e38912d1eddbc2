@@ -1,0 +1,5 @@
+package com.alvesmoney.api.resource;
+
+public class CategoriaResource {
+
+}

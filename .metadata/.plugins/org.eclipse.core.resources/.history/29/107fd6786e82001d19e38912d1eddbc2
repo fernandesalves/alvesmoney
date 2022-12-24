@@ -1,0 +1,5 @@
+package com.alvesmoney.api.event;
+
+public class RecursoCriadoListener implements applicationeve {
+
+}
